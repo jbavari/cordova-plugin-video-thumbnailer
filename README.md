@@ -1,3 +1,7 @@
+This plugin was inspired from the previous owner from his Github repo:
+
+https://github.com/maxbasmanov/PhoneGap_Thumbnailer
+
 # Supported Platforms
 
 Android only (for the time)
