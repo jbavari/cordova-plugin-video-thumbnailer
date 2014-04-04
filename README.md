@@ -1,10 +1,11 @@
-Getting started:
+# Supported Platforms
 
-# Android
+Android only (for the time)
+
+# Getting started on Android
 
 * cordova add android
 * cordova plugin add ../cordova-plugin-video-thumbnailer
-
 
 ## Usage
 
